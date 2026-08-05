@@ -1,0 +1,3 @@
+-- Import the CSV into staging.raw_superstore using pgAdmin's Import/Export Data tool.
+-- Source file:
+-- C:\Users\School\OneDrive\Documents\Retail Sales PostgreSQL\Data\Sample - Superstore.csv
