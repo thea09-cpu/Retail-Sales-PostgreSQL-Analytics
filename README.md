@@ -79,10 +79,10 @@ An Entity Relationship Diagram (ERD) is included in the project.
 ```
 Retail-Sales-PostgreSQL/
 
-├── data/
-├── sql/
-├── diagrams/
-├── screenshots/
+├── Data/
+├── Sql/
+├── Diagram/
+├── Screenshots/
 └── README.md
 ```
 
